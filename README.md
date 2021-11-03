@@ -6,5 +6,6 @@ What keeps an aspiring technical writer awake at night? For me, it is definitely
 :books:
 As both of these tools come from the Atlassian family and the organization of their documentation is very similar, I decided to analyze them together in order highlight their similarities and differences. 
 
-1. First glance
+1. First glance  
+
 Immediately after logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview), we can see a Quickstart menu on the right:
