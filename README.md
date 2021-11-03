@@ -10,4 +10,10 @@ As both of these tools come from the Atlassian family and the organization of th
 
 Immediately after logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview), we can see a Quickstart menu on the right:  
 
-![Confluence Quickstart](confluence1.jpeg)
+![Confluence Quickstart](confluence1.jpeg)  
+
+It does not give much information, but it is useful as an introduction.  
+
+Jira does not have this feature: instead, it suggests you a few articles that you can read directly in the **Help** panel and then evaluate their usefulness:  
+
+![Jira panel](jira3.jpeg)
