@@ -82,3 +82,20 @@ Additionally, we are greeted by a chatbot Simon, who we can’t actually chat wi
 
 Personally, I am not a fan of chatbots, but this one is not that annoying and it actually gives useful information :wink:  
 
+2. **Online help**  
+
+The good news is, once we find the button that we are looking for, we enter a comprehensive, clearly organized guide with everything that we might possibly need. Step-by-step **tutorials** are very intuitive and contain relevant screenshots that can be enlarged. **Videos** are narrated by humans (unlike in the previously analyzed tools), which makes them easier to follow. It might have been a good idea to add subtitles to them (only the automated ones are available).  
+
+As it can be seen in the [Product Demo](https://www.madcapsoftware.com/videos/flare/product-demo-an-overview-of-madcap-flare/#content) video, the program itself contains a new project wizard, perfect for inexperienced users.  
+
+Another useful feature, missing from Jira and Confluence, is the [Troubleshooting](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Troubleshooting/Troubleshooting.htm) tab, where it is possible to find solutions on our own.  
+
+Under the **Customers** tab, we can also find [Customer Showcase](https://www.madcapsoftware.com/customers/customer-showcase/), where we can look at examples of real documentation made with MadCap Flare.  
+
+3. **Other languages**  
+
+Unfortunately, I could not find any online help resources for MadCap Flare in languages other than English.  
+
+4. **Overall impressions**  
+
+Compared to Jira and Confluence, MadCap Flare’s technical documentation seems more advanced and better organized. It might be due to the fact that, from what I learned so far, MadCap Flare is a tool developed specifically for technical writers. :smiley: The main change I would consider would be to add resources in other languages, as it would certainly help techwriters who don’t work with English.
