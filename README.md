@@ -68,3 +68,9 @@ Additionally, the introductory videos are not translated into any language (othe
 
 ## MadCap Flare  
 
+1. **First glance**  
+
+Compared with Jira and Confluence, MadCap Flare makes it more difficult to access documentation. Instead of a visible little question mark, there is a ribbon with many options to choose from:  
+
+![Madcapmenu](madcap3.jpeg)  
+
