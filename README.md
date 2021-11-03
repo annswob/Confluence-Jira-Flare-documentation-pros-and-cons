@@ -49,3 +49,15 @@ and then take an assessment test to evaluate yourself.
 Jira and Confluence also have some of their documentation translated into other languages, although, again, it is not the easiest to find (I accessed the [website](https://www.atlassian.com/pl/software/confluence) through Google).  
 Another problem is the translation, which is not always complete in Polish. Below are examples of the same content in Polish and French (Confluence):  
 
+![Confluencepl](confluencepl.jpeg)
+![Confluencefr](confluencefr.jpeg)  
+
+and in Polish and Spanish (Jira):  
+![Jirapl](jirapl.jpeg)  
+![Jiraes](jiraesp.jpeg)  
+
+Additionally, the introductory videos are not translated into any language (other than English), which is not coherent with written materials.  
+
+4. Overall impressions
+   
+The technical documentation of Jira and Confluence is unified, diverse, interactive and detailed, although it would help to work a bit more on the translated content. Also, because it is so vast, the documentation is scattered around the Atlassian website and it takes some time to track the interesting content down.
