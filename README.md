@@ -6,7 +6,7 @@
 :books:
 As both of these tools come from the Atlassian family and the organization of their documentation is very similar, I decided to analyze them together in order highlight their similarities and differences. 
 
-1. First glance  
+1. **First glance**  
 
 Logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview) for the first time, we can see a **Quickstart** menu on the right:  
 
@@ -20,7 +20,7 @@ Jira does not have this feature: instead, it suggests you a few articles that yo
 
 I think a more detailed **Quickstart** menu would be a good idea in both cases, just to give us a general overview of the most important functions.
 
-2. Online help  
+2. **Online help**  
 
 In order to find detailed documentation for both tools, we need to click on the question mark button at the top right-hand corner: its visibility and accessibility is a big plus. From here, we can go to (both in Jira and Confluence):  
 * [Read help articles](https://support.atlassian.com/confluence-cloud/resources/): this section is divided into a series of articles with mini-presentations embedded in the text. What I liked about them is that they are written in a simple, fun language and provide step-by-step instructions.  
@@ -38,15 +38,18 @@ This feature gives you access to both free and paid courses. They are self-paced
 
 ![Jiraintro](jira1.jpeg)  
 
+
 Another great thing about these courses is their interactivity: you can practice in the tool itself while you’re learning:
 
 ![Confluencepractice](confluence2.jpeg)  
 
+
 and then take an assessment test to evaluate yourself.  
 
-3. Other languages  
+3. **Other languages**  
 
 Jira and Confluence also have some of their documentation translated into other languages, although, again, it is not the easiest to find (I accessed the [website](https://www.atlassian.com/pl/software/confluence) through Google).  
+
 Another problem is the translation, which is not always complete in Polish. Below are examples of the same content in Polish and French (Confluence):  
 
 ![Confluencepl](confluencepl.jpeg)
@@ -58,6 +61,10 @@ and in Polish and Spanish (Jira):
 
 Additionally, the introductory videos are not translated into any language (other than English), which is not coherent with written materials.  
 
-4. Overall impressions
+4. **Overall impressions**
    
-The technical documentation of Jira and Confluence is unified, diverse, interactive and detailed, although it would help to work a bit more on the translated content. Also, because it is so vast, the documentation is scattered around the Atlassian website and it takes some time to track the interesting content down.
+:books: The technical documentation of Jira and Confluence is unified, diverse, interactive and detailed, although it would help to work a bit more on the translated content. Also, because it is so vast, the documentation is scattered around the Atlassian website and it takes some time to track the interesting content down.  
+
+
+## MadCap Flare  
+
