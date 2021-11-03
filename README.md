@@ -74,3 +74,11 @@ Compared with Jira and Confluence, MadCap Flare makes it more difficult to acces
 
 ![Madcapmenu](madcap3.jpeg)  
 
+The specific documentation for this particular software can be found under Support/Online Help and Documentation/[MadCap Flare](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm).  
+
+Additionally, we are greeted by a chatbot Simon, who we can’t actually chat with, but who gives us a few options to orient us in the right direction:  
+![Simon](madcap1.jpeg)  
+![Simon2](madcap2.jpeg)  
+
+Personally, I am not a fan of chatbots, but this one is not that annoying and it actually gives useful information :wink:  
+
