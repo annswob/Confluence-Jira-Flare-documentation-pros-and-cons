@@ -2,13 +2,16 @@
 
 
    [Jira & Confluence](#jira--confluence)  
-   1. [First glance](#first-glance)
-   2. [Help panel](#online-help)
-   3. [Other languages](#other-languages)
+   1. [Easily accessible](#easily-accessible)
+   2. [Simple help panel](#simple-help-panel)
+   3. [Available in other languages](#available-in-other-languages)
    4. [Overall impressions](#overall-impressions)  
    
    [MadCap Flare](#madcap-flare)  
-   1. [First glance](#first-glance)
+   1. [A little harder to find](#a-little-harder-to-find)
+   2. [Detailed online help](#detailed-online-help)
+   3. [No translation](#no-translation)
+   4. [Conclusions](#conclusions)
 
 :books: What keeps an aspiring technical writer awake at night? For me, it is definitely the overwhelming amount of new tools to learn. After years of simply typing into a text editor, I woke up in the world filled with terms such as authoring solutions, single-sourcing and content reuse. In times like this, reading technical documentation can be a life saver: not only does it help to grasp the concept of these tools, but it also allows to compare the **pros and cons** of given products. So, let’s take a closer look at the documentation of three popular solutions: **Jira**, **Confluence** and **Madflare Cap**.
 
@@ -16,7 +19,7 @@
 :books:
 As both of these tools come from the Atlassian family and the organization of their documentation is very similar, I decided to analyze them together in order highlight their similarities and differences. 
 
-1. ### **First glance** 
+1. ### **Easily accessible** 
 
 When logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview) for the first time, we can see a **Quickstart** menu on the right:  
 
@@ -30,7 +33,7 @@ It does not give much information, but it is useful as an introduction.
 
 I think a more detailed **Quickstart** menu would be a good idea in both cases, just to give us a general overview of the most important functions.
 
-1. ### **Help panel**  
+1. ### **Simple help panel**  
 
 In order to find detailed documentation for both tools, we need to click on the **question mark** button at the top right-hand corner: its visibility and accessibility is a big plus.  
 From here, we can go to (both in **Jira** and **Confluence**):  
@@ -57,7 +60,7 @@ Another great thing about these courses is their **interactivity**: you can prac
 
 and then take an **assessment test** to evaluate yourself.  
 
-3. ### **Other languages**  
+3. ### **Available in other languages**  
 
 **Jira** and **Confluence** also have some of their documentation translated into other languages, although, again, it is not the easiest to find (I accessed the [Polish website](https://www.atlassian.com/pl/software/confluence) through Google).  
 
@@ -81,7 +84,7 @@ Additionally, the **introductory videos are not translated** into any language (
 
 ## MadCap Flare  
 
-1. ### **First glance**  
+1. ### **A little harder to find**  
 
 Compared with **Jira** and **Confluence**, **MadCap Flare** makes it a little more difficult to access documentation. Instead of a visible question mark button, there is a ribbon with many options to choose from:  
 
@@ -98,7 +101,7 @@ Personally, I am not a fan of chatbots, but this one is not that annoying and it
 
   
 
-2. ### **Online help**  
+2. ### **Detailed online help**  
 
 The good news is, once we find the button that we are looking for, we enter a **comprehensive, clearly organized guide** with everything that we might possibly need. Among other things, **MadCap Flare** provides us with:
 * [Key concepts and features](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Features/Key-Features.htm): to get us started.   
@@ -109,10 +112,10 @@ And as it can be seen in the [Product Demo](https://www.madcapsoftware.com/video
 
 Moreover, under the **Customers** tab on the [main page](https://www.madcapsoftware.com), we can also find [Customer Showcase](https://www.madcapsoftware.com/customers/customer-showcase/), where we can look at examples of real documentation made with **MadCap Flare**.  
 
-3. ### **Other languages**  
+3. ### **No translation**  
 
 Unfortunately, I could not find any online help resources for **MadCap Flare** in languages other than English.  
 
-4. ### **Overall impressions**  
+4. ### **Conclusions**  
 
 :books: Compared to **Jira** and **Confluence**, **MadCap Flare**’s technical documentation seems more advanced and better organized. It might be due to the fact that, from what I have learned so far, **MadCap Flare** is a tool developed specifically for technical writers. :smiley: The main change I would consider would be adding resources in other languages: it would certainly help techwriters who do not work with English.
