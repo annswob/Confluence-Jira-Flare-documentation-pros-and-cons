@@ -51,7 +51,7 @@ and then take an **assessment test** to evaluate yourself.
 
 **Jira** and **Confluence** also have some of their documentation translated into other languages, although, again, it is not the easiest to find (I accessed the [Polish website](https://www.atlassian.com/pl/software/confluence) through Google).  
 
-Another problem is the translation, which is **not always complete** in Polish. Below are examples of the same content in Polish and French (in **Confluence**):  
+Another problem is the translation itself, which is **not always complete** in Polish. Below are examples of the same content in Polish and French (in **Confluence**):  
 
 ![Confluencepl](confluencepl.jpeg)
 ![Confluencefr](confluencefr.jpeg)  
@@ -65,7 +65,7 @@ Additionally, the **introductory videos are not translated** into any language (
 
 4. ### **Overall impressions**
    
-:books: Both in **Jira** and **Confluence**, the technical documentation is unified, diverse, interactive and detailed. However, it would help to work a bit more on the translated content. Also, because it is so vast, the documentation is scattered around the Atlassian website and it takes some time to track the interesting content down.  
+:books: Both in **Jira** and **Confluence**, the technical documentation is unified, diverse, interactive and detailed. However, it would help to work a bit more on the translated content. Also, because it is so vast, the documentation is somewhat scattered around the Atlassian website and it takes some time to track the interesting content down.  
 
   
 
@@ -90,18 +90,19 @@ Personally, I am not a fan of chatbots, but this one is not that annoying and it
 
 2. ### **Online help**  
 
-The good news is, once we find the button that we are looking for, we enter a **comprehensive, clearly organized guide** with everything that we might possibly need. Step-by-step **tutorials** are very intuitive and contain relevant screenshots that can be enlarged. **Videos** are narrated by humans (unlike in the previously analyzed tools), which makes them easier to follow. It might have been a good idea to add subtitles to them (only the automated ones are available).  
+The good news is, once we find the button that we are looking for, we enter a **comprehensive, clearly organized guide** with everything that we might possibly need. Among other things, **MadCap Flare** provides us with:
+* [Key concepts and features](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Features/Key-Features.htm): to get us started.   
+* Step-by-step [tutorials](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Tutorials/Tutorials.htm): very intuitive and contain relevant screenshots that can be enlarged.  
+* [Resources](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Resources.htm) containing **PDFs** and **videos** narrated by humans (unlike in the previously analyzed tools), which makes them easier to follow. It might have been a good idea to add subtitles to them (only the automated ones are available).  
+And as it can be seen in the [Product Demo](https://www.madcapsoftware.com/videos/flare/product-demo-an-overview-of-madcap-flare/#content) video, the program itself contains a new project wizard, perfect for inexperienced users.  
+* [Troubleshooting](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Troubleshooting/Troubleshooting.htm): another useful tab, missing from **Jira** and **Confluence**, which makes it possible to find solutions on our own.  
 
-As it can be seen in the [Product Demo](https://www.madcapsoftware.com/videos/flare/product-demo-an-overview-of-madcap-flare/#content) video, the program itself contains a new project wizard, perfect for inexperienced users.  
+Moreover, under the **Customers** tab on the [main page](https://www.madcapsoftware.com), we can also find [Customer Showcase](https://www.madcapsoftware.com/customers/customer-showcase/), where we can look at examples of real documentation made with **MadCap Flare**.  
 
-Another useful feature, missing from Jira and Confluence, is the [Troubleshooting](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Troubleshooting/Troubleshooting.htm) tab, where it is possible to find solutions on our own.  
+3. ### **Other languages**  
 
-Under the **Customers** tab, we can also find [Customer Showcase](https://www.madcapsoftware.com/customers/customer-showcase/), where we can look at examples of real documentation made with MadCap Flare.  
+Unfortunately, I could not find any online help resources for **MadCap Flare** in languages other than English.  
 
-3. **Other languages**  
+4. ### **Overall impressions**  
 
-Unfortunately, I could not find any online help resources for MadCap Flare in languages other than English.  
-
-4. **Overall impressions**  
-
-Compared to Jira and Confluence, MadCap Flare’s technical documentation seems more advanced and better organized. It might be due to the fact that, from what I learned so far, MadCap Flare is a tool developed specifically for technical writers. :smiley: The main change I would consider would be to add resources in other languages, as it would certainly help techwriters who don’t work with English.
+Compared to **Jira** and **Confluence**, **MadCap Flare**’s technical documentation seems more advanced and better organized. It might be due to the fact that, from what I have learned so far, **MadCap Flare** is a tool developed specifically for technical writers. :smiley: The main change I would consider would be adding resources in other languages: it would certainly help techwriters who do not work with English.
