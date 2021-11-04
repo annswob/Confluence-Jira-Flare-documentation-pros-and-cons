@@ -1,8 +1,14 @@
 # **Techwriter Wannabe Reads Documentation : Jira, Confluence and MadFlare Cap Overview**
 
-1. [**Techwriter Wannabe Reads Documentation : Jira, Confluence and MadFlare Cap Overview**](#techwriter-wannabe-reads-documentation--jira-confluence-and-madflare-cap-overview)
-   1. [Jira & Confluence](#jira--confluence)
-   2. [MadCap Flare](#madcap-flare)
+
+   [Jira & Confluence](#jira--confluence)  
+   1. [First glance](#first-glance)
+   2. [Online help](#online-help)
+   3. [Other languages](#other-languages)
+   4. [Overall impressions](#overall-impressions)  
+   
+   [MadCap Flare](#madcap-flare)  
+   1. [First glance](#first-glance)
 
 :books: What keeps an aspiring technical writer awake at night? For me, it is definitely the overwhelming amount of new tools to learn. After years of simply typing into a text editor, I woke up in the world filled with terms such as authoring solutions, single-sourcing and content reuse. In times like this, reading technical documentation can be a life saver: not only does it help to grasp the concept of these tools, but it also allows to compare the **pros and cons** of given products. So, let’s take a closer look at the documentation of three popular solutions: **Jira**, **Confluence** and **Madflare Cap**.
 
@@ -10,7 +16,7 @@
 :books:
 As both of these tools come from the Atlassian family and the organization of their documentation is very similar, I decided to analyze them together in order highlight their similarities and differences. 
 
-1. ### **First glance**  
+1. ### **First glance** 
 
 When logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview) for the first time, we can see a **Quickstart** menu on the right:  
 
@@ -24,7 +30,7 @@ It does not give much information, but it is useful as an introduction.
 
 I think a more detailed **Quickstart** menu would be a good idea in both cases, just to give us a general overview of the most important functions.
 
-2. ### **Online help**  
+1. ### **Online help**  
 
 In order to find detailed documentation for both tools, we need to click on the **question mark** button at the top right-hand corner: its visibility and accessibility is a big plus.  
 From here, we can go to (both in **Jira** and **Confluence**):  
