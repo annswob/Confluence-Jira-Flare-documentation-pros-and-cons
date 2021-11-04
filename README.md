@@ -1,5 +1,9 @@
 # **Techwriter Wannabe Reads Documentation : Jira, Confluence and MadFlare Cap Overview**
 
+1. [**Techwriter Wannabe Reads Documentation : Jira, Confluence and MadFlare Cap Overview**](#techwriter-wannabe-reads-documentation--jira-confluence-and-madflare-cap-overview)
+   1. [Jira & Confluence](#jira--confluence)
+   2. [MadCap Flare](#madcap-flare)
+
 :books: What keeps an aspiring technical writer awake at night? For me, it is definitely the overwhelming amount of new tools to learn. After years of simply typing into a text editor, I woke up in the world filled with terms such as authoring solutions, single-sourcing and content reuse. In times like this, reading technical documentation can be a life saver: not only does it help to grasp the concept of these tools, but it also allows to compare the **pros and cons** of given products. So, let’s take a closer look at the documentation of three popular solutions: **Jira**, **Confluence** and **Madflare Cap**.
 
 ## Jira & Confluence
@@ -92,7 +96,7 @@ Personally, I am not a fan of chatbots, but this one is not that annoying and it
 
 The good news is, once we find the button that we are looking for, we enter a **comprehensive, clearly organized guide** with everything that we might possibly need. Among other things, **MadCap Flare** provides us with:
 * [Key concepts and features](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Features/Key-Features.htm): to get us started.   
-* Step-by-step [tutorials](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Tutorials/Tutorials.htm): very intuitive and contain relevant screenshots that can be enlarged.  
+* Step-by-step [tutorials](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Tutorials/Tutorials.htm): very intuitive and containing relevant screenshots that can be enlarged.  
 * [Resources](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Resources.htm) containing **PDFs** and **videos** narrated by humans (unlike in the previously analyzed tools), which makes them easier to follow. It might have been a good idea to add subtitles to them (only the automated ones are available).  
 And as it can be seen in the [Product Demo](https://www.madcapsoftware.com/videos/flare/product-demo-an-overview-of-madcap-flare/#content) video, the program itself contains a new project wizard, perfect for inexperienced users.  
 * [Troubleshooting](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Troubleshooting/Troubleshooting.htm): another useful tab, missing from **Jira** and **Confluence**, which makes it possible to find solutions on our own.  
@@ -105,4 +109,4 @@ Unfortunately, I could not find any online help resources for **MadCap Flare** i
 
 4. ### **Overall impressions**  
 
-Compared to **Jira** and **Confluence**, **MadCap Flare**’s technical documentation seems more advanced and better organized. It might be due to the fact that, from what I have learned so far, **MadCap Flare** is a tool developed specifically for technical writers. :smiley: The main change I would consider would be adding resources in other languages: it would certainly help techwriters who do not work with English.
+:books: Compared to **Jira** and **Confluence**, **MadCap Flare**’s technical documentation seems more advanced and better organized. It might be due to the fact that, from what I have learned so far, **MadCap Flare** is a tool developed specifically for technical writers. :smiley: The main change I would consider would be adding resources in other languages: it would certainly help techwriters who do not work with English.
