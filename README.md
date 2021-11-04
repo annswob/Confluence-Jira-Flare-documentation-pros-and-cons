@@ -3,7 +3,7 @@
 
    [Jira & Confluence](#jira--confluence)  
    1. [First glance](#first-glance)
-   2. [Online help](#online-help)
+   2. [Help panel](#online-help)
    3. [Other languages](#other-languages)
    4. [Overall impressions](#overall-impressions)  
    
@@ -30,7 +30,7 @@ It does not give much information, but it is useful as an introduction.
 
 I think a more detailed **Quickstart** menu would be a good idea in both cases, just to give us a general overview of the most important functions.
 
-1. ### **Online help**  
+1. ### **Help panel**  
 
 In order to find detailed documentation for both tools, we need to click on the **question mark** button at the top right-hand corner: its visibility and accessibility is a big plus.  
 From here, we can go to (both in **Jira** and **Confluence**):  
