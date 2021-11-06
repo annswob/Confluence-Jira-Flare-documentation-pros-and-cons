@@ -27,7 +27,7 @@ When logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/T
 
 It does not give much information, but it is useful as an introduction.  
 
-**Jira** does not have this feature: instead, it suggests you a few articles that you can read directly in the **Help** panel and then evaluate their usefulness:  
+**Jira** also has this feature and it also suggests you a few articles that you can read directly in the **Help** panel and then evaluate their usefulness:  
 
 ![Jira panel](jira2.jpeg)
 
