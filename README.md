@@ -19,7 +19,7 @@
  
 📚 As both of these tools come from the Atlassian family and the organization of their documentation is very similar, I decided to analyze them together in order highlight their similarities and differences. 
 
-1. ### **Easily accessible** 
+* ### **Easily accessible** 
 
     When logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview) for the first time, we can see a **Quickstart** menu on the right:  
 
