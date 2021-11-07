@@ -27,7 +27,7 @@
 
  It does not give much information, but it is useful as an introduction.  
 
- **Jira** has this feature as well.It also suggests a few articles that you can read directly in the **Help** panel and then evaluate their usefulness:  
+ **Jira** has this feature as well. It also suggests a few articles that you can read directly in the **Help** panel and then evaluate their usefulness:  
 
  ![Jira panel](jira2.jpeg)
 
@@ -62,23 +62,23 @@
 
 3. ### **Available in other languages**  
 
-**Jira** and **Confluence** have some of their documentation translated into other languages, although, again, it is not the easiest to find (I accessed the [Polish website](https://www.atlassian.com/pl/software/confluence) through Google).  
+ **Jira** and **Confluence** have some of their documentation translated into other languages, although, again, it is not the easiest to find (I accessed the [Polish website](https://www.atlassian.com/pl/software/confluence) through Google).  
 
-Another problem is the translation itself, which is **not always complete** in Polish. Below are examples of the same content in Polish and French (in **Confluence**):  
+ Another problem is the translation itself, which is **not always complete** in Polish. Below are examples of the same content in Polish and French (in **Confluence**):  
 
-![Confluencepl](confluencepl.jpeg)
-![Confluencefr](confluencefr.jpeg)  
+ ![Confluencepl](confluencepl.jpeg)
+ ![Confluencefr](confluencefr.jpeg)  
 
-and in Polish and Spanish (in **Jira**):  
+ and in Polish and Spanish (in **Jira**):  
 
-![Jirapl](jirapl.jpeg)  
-![Jiraes](jiraesp.jpeg)  
+ ![Jirapl](jirapl.jpeg)  
+ ![Jiraes](jiraesp.jpeg)  
 
-Additionally, the **introductory videos are not translated** into any language (other than English), which is not consistent with written materials.  
+ Additionally, the **introductory videos are not translated** into any language (other than English), which is not consistent with written materials.  
 
 4. ### **Overall impressions**
    
-📚 Both in **Jira** and **Confluence**, the technical documentation is unified, diverse, interactive and detailed. However, it would help to work a bit more on the translated content. Also, because it is so vast and similar for both tools, the documentation is somewhat scattered around the Atlassian website: it takes some time to track down the interesting content.  
+ 📚 Both in **Jira** and **Confluence**, the technical documentation is unified, diverse, interactive and detailed. However, it would help to work a bit more on the translated content. Also, because it is so vast and similar for both tools, the documentation is somewhat scattered around the Atlassian website: it takes some time to track down the interesting content.  
 
   
 
