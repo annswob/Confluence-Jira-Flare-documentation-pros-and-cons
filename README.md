@@ -21,18 +21,18 @@
 
 1. ### **Easily accessible** 
 
- When logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview) for the first time, we can see a **Quickstart** menu on the right:  
+    When logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview) for the first time, we can see a **Quickstart** menu on the right:  
 
- ![Confluence Quickstart](confluence1.jpeg)  
+    ![Confluence Quickstart](confluence1.jpeg)  
 
- It does not give much information, but it is useful as an introduction.  
+    It does not give much information, but it is useful as an introduction.  
 
- **Jira** has this feature as well. It also suggests a few articles that you can read directly in the **Help** panel and then evaluate their usefulness:  
+    **Jira** has this feature as well. It also suggests a few articles that you can read directly in the **Help** panel and then evaluate their usefulness:  
 
- ![Jira panel](jira2.jpeg)
+    ![Jira panel](jira2.jpeg)
 
- I think a more detailed **Quickstart** menu would be a good idea in both cases, just to give us a general overview of the most important functions.
-
+    I think a more detailed **Quickstart** menu would be a good idea in both cases, just to give us a general overview of the most important functions  
+ 
 2. ### **Simple help panel**  
 
  In order to find detailed documentation for both tools, we need to click on the **question mark** button at the top right-hand corner: its visibility and accessibility is a big plus.  
@@ -75,7 +75,6 @@
  ![Jiraes](jiraesp.jpeg)  
 
  Additionally, the **introductory videos are not translated** into any language (other than English), which is not consistent with written materials.  
-
 4. ### **Overall impressions**
    
  📚 Both in **Jira** and **Confluence**, the technical documentation is unified, diverse, interactive and detailed. However, it would help to work a bit more on the translated content. Also, because it is so vast and similar for both tools, the documentation is somewhat scattered around the Atlassian website: it takes some time to track down the interesting content.  
