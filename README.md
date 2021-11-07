@@ -19,7 +19,7 @@
  
 📚 As both of these tools come from the Atlassian family and the organization of their documentation is very similar, I decided to analyze them together in order highlight their similarities and differences. 
 
-* ### **Easily accessible** 
+1. ### **Easily accessible** 
 
     When logging to [Confluence](https://techcommvistula.atlassian.net/wiki/spaces/TECHCOMMVI/overview) for the first time, we can see a **Quickstart** menu on the right:  
 
@@ -33,7 +33,7 @@
 
     I think a more detailed **Quickstart** menu would be a good idea in both cases, just to give us a general overview of the most important functions  
  
-* ### **Simple help panel**  
+2. ### **Simple help panel**  
 
     In order to find detailed documentation for both tools, we need to click on the **question mark** button at the top right-hand corner: its visibility and accessibility is a big plus.  
     From here, we can go to (both in **Jira** and **Confluence**):  
