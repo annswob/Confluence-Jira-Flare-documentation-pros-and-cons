@@ -13,7 +13,7 @@
    3. [No translation](#no-translation)
    4. [Conclusions](#conclusions)
 
-📚 What keeps an aspiring technical writer awake at night? For me, it is definitely the overwhelming number of new tools to learn. After years of simply typing into a text editor, I woke up in a world filled with terms such as authoring solutions, single-sourcing and content reuse. In times like these, reading technical documentation can be a life saver: not only does it help to grasp the concept of these tools, but it also allows to compare the **pros and cons** of their online help. So, let’s take a closer look at the documentation of three popular solutions: **Jira**, **Confluence** and **MadCap Flare**.
+📚 What keeps an aspiring technical writer awake at night? For me, it is definitely the overwhelming number of new tools to learn. After years of simply typing into a text editor, I woke up in a world filled with terms such as authoring solutions, single-sourcing and content reuse.😅 In times like these, reading technical documentation can be a life saver: not only does it help to grasp the concept of these tools, but it also allows to compare the **pros and cons** of their online help. So, let’s take a closer look at the documentation of three popular solutions: **Jira**, **Confluence** and **MadCap Flare**.
 
 ## Jira & Confluence
  
