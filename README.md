@@ -117,5 +117,5 @@
 
 4. ### **Conclusions**  
 
-    📚 Compared to **Jira** and **Confluence**, **MadCap Flare**’s technical documentation seems more advanced and better organized. It might be due to the fact that, from what I have learned so far, **MadCap Flare** is a tool developed specifically for technical writers.😄 The main change I would consider would be adding resources in other languages: it would certainly help techwriters who are non-native speakers of English.  
+    📚 Compared to **Jira** and **Confluence**, **MadCap Flare**’s technical documentation seems more advanced and better organized. It might be due to the fact that, from what I have learned so far, **MadCap Flare** is a tool developed specifically for technical writers.😄 The main change to consider is adding resources in other languages: it would certainly help techwriters who are non-native speakers of English.  
 
