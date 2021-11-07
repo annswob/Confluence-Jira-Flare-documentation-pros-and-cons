@@ -95,10 +95,9 @@ The specific documentation for this particular piece of software can be found un
 At first, we are greeted by the **chatbot Simon**, wich we cannot actually chat with. Luckily, it gives us a few options to point us in the right direction:  
 ![Simon](madcap2.jpeg)  
 
-Personally, I am not a fan of chatbots, but this one is not that annoying and it actually gives useful basic information :wink:
+Personally, I am not a fan of chatbots, but this one is not that annoying and it actually gives useful basic information :wink: 
 
 ![Simon2](madcap1.jpeg)  
-
   
 
 2. ### **Detailed online help**  
