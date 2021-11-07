@@ -92,7 +92,7 @@
 
     The specific documentation for this particular piece of software can be found under Support/Online Help and Documentation/[MadCap Flare](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm).  
 
-    At first, we are greeted by the **chatbot Simon**, wich we cannot actually chat with. Luckily, it gives us a few options to point us in the right direction:  
+    At first, we are greeted by the **chatbot Simon**, which we cannot actually chat with. Luckily, it gives us a few options to point us in the right direction:  
     ![Simon](madcap2.jpeg)  
 
     Personally, I am not a fan of chatbots, but this one is not that annoying and it actually gives useful basic information 😉 
