@@ -1,4 +1,4 @@
-# **Techwriter Wannabe Reads Documentation: Jira, Confluence and MadFlare Cap Overview**
+# **Techwriter Wannabe Reads Documentation: Jira, Confluence and MadCap Flare Overview**
 
 
    [Jira & Confluence](#jira--confluence)  
